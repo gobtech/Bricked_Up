@@ -6,9 +6,16 @@ body {
 }
 
 header {
+  text-align: center; /* Options: left, center, right, justify */
   background-color: #dcdcdc;
   color: #404040;
   padding: 10px;
+}
+
+nav {
+  text-align: left; /* Aligns the navigation content to the left */
+  margin: 0 auto; /* Centers the nav bar container within its parent if needed */
+  padding: 10px; /* Optional: Adds some spacing inside the nav bar */
 }
 
 footer {
