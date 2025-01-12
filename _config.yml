@@ -22,7 +22,7 @@ title: Bricked_Up
 description: >- # ">" indicates folding newlines into spaces
   I am Bricked Up
 author: AcidBaby
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/Bricked_Up" # the subpath of your site, e.g. /blog
 url: "https://gobtech.github.io"
 
 # Build settings
