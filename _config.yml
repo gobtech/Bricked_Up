@@ -20,15 +20,19 @@
 
 title: Bricked_Up
 description: >- # ">" indicates folding newlines into spaces
-  You will find me.
+  I am Bricked Up
 author: AcidBaby
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gobtech.github.io"
 
 # Build settings
 theme: minima
+highlighter: rouge
 plugins:
   - jekyll-feed
+
+#Markdown settings (optional)
+markdown: kramdown 
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -1,0 +1,18 @@
+/* assets/css/main.css */
+body {
+  font-family: Roboto, sans-serif;
+  background-color: #dcdcdc;
+  color: #404040;
+}
+
+header {
+  background-color: #dcdcdc;
+  color: #404040;
+  padding: 10px;
+}
+
+footer {
+  text-align: center;
+  font-size: 0.8em;
+  color: #404040;
+}
