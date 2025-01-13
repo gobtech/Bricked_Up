@@ -15,7 +15,7 @@ katex: True
 
 ## I. 前言 - Preface
 
-Furthermore, we could define the set $$\mathbb{R}$$
+Furthermore, we could define the set $$\mathbb{S}$$
 
 This is an inline math equation: $$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$$
 
