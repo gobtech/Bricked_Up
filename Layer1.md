@@ -48,6 +48,6 @@ Suspendisse potenti. Nulla facilisi. Cras nec arcu at nisl fermentum posuere in 
 
 ### Math Example
 
-This is an inline math equation: $$ E = mc^2 $$.
+This is an inline math equation: $$E = mc^2$$.
 
 
