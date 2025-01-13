@@ -17,12 +17,7 @@ katex: True
 
 Furthermore, we could define the set 
 
-This is an inline math equation: $E = mc^2 $
-
-inline: $$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$$
-display mode (centered):
-
-$$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$$
+This is an inline math equation: $$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$$
 
 ## II. The Designer Dilemma. 
 
@@ -53,6 +48,6 @@ Suspendisse potenti. Nulla facilisi. Cras nec arcu at nisl fermentum posuere in 
 
 ### Math Example
 
-
+This is an inline math equation: $$ E = mc^2 $$.
 
 
