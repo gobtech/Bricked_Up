@@ -32,7 +32,8 @@ plugins:
   - jekyll-feed
 
 #Markdown settings (optional)
-markdown: kramdown 
+kramdown:
+  math_engine: katex
 
 navbar:
   - title: Main
