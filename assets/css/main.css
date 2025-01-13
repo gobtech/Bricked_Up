@@ -1,14 +1,15 @@
 /* assets/css/main.css */
 body {
   font-family: Roboto, sans-serif;
-  background-color: #dcdcdc;
-  color: #404040;
+  background-color: #C0C0C0;
+  color: #000000;
+ /* text-align: center; */
 }
 
 header {
   text-align: center; /* Options: left, center, right, justify */
-  background-color: #dcdcdc;
-  color: #404040;
+  background-color: #C0C0C0;
+  color: #000000;
   padding: 10px;
 }
 
@@ -21,5 +22,17 @@ nav {
 footer {
   text-align: center;
   font-size: 0.8em;
-  color: #404040;
+  color: #000000;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.align-left {
+  text-align: left;
 }

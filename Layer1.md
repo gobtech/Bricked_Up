@@ -1,15 +1,24 @@
 ---
 layout: default
-title: Haute Kleidung
+title: Haut Kleidung
 permalink: /layer1/
 ---
-# Haute Kleidung
 
-Exploring the unexplored.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse nec malesuada purus, a bibendum lorem. Curabitur id risus eget libero facilisis varius vel sit amet lacus.
 
-## Section 1: The Essence of Haute Couture
+# Haut_Kleidung
+
+~~Hot~~ ***Haut*** : <samp>ADJECTIVE</samp>. (*situation*) **high**. 
+
+***Kleidung*** : <samp>NOUN</samp>. [<kbd>uncountable</kbd>, <kbd>feminine</kbd>] **clothes, clothing**. 
+
+## I. 前言 - Preface
+
+Furthermore, we could define the set 
+
+This is an inline math equation: \( E = mc^2 \).
+
+## II. The Designer Dilemma. 
 
 Haute couture is more than just fashion; it is an art form. Every stitch, every seam is a testament to craftsmanship and creativity.
 
@@ -24,7 +33,7 @@ From the streets of Paris to the runways of Milan, haute couture has shaped the 
 
 > "Fashion fades, but style is eternal." – Yves Saint Laurent
 
-## Section 2: Layers of Meaning
+## III. Layers of Meaning
 
 Each layer of haute couture clothing has a story to tell, whether it's a nod to history, a statement of rebellion, or a celebration of individuality.
 
@@ -35,3 +44,9 @@ Each layer of haute couture clothing has a story to tell, whether it's a nod to 
 Suspendisse potenti. Nulla facilisi. Cras nec arcu at nisl fermentum posuere in vel quam. 
 
 <a href="https://en.wikipedia.org/wiki/Haute_couture" target="_blank">Learn more about haute couture</a> 
+
+### Math Example
+
+This is an inline math equation: \( E = mc^2 \).
+
+
