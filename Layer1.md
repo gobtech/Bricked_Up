@@ -15,7 +15,7 @@ katex: True
 
 ## I. 前言 - Preface
 
-Furthermore, we could define the set $$\mathbb{S}$$
+Furthermore, we could define the set $$\mathbb{S}={s_{1},s_{2},s_{3}...}$$
 
 This is an inline math equation: $$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$$
 
